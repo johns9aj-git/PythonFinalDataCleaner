@@ -1,0 +1,11 @@
+Name,Email,Role
+ Alice , alice@example.com , Admin 
+Bob,bob@example.com,User
+Charlie,charlie@demo.com,Guest
+Alice , alice@example.com , Admin 
+David,david@example.org,Admin
+Eve,eve@demo.com,User
+Frank,frank@example.com,User
+Frank,frank@example.com,User
+Frank,frank@example.com,User
+Frank,frank@example.com,User
